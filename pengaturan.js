@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "SUDUT KAMERA PROJECT",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyDM6nhCEOMamW7bMA15a1oezLMWPwLorBY"
 };
